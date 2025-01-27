@@ -28,8 +28,3 @@ Core Features
 - Easy-to-read weather data visualization
 - Customizable units (Celsius/Fahrenheit)
 
-## Technologies Used
-- HTML5 for structure and semantic elements
-- CSS3 for styling and responsive design
-- JavaScript for dynamic functionality and API integration
-- REST APIs for fetching weather data
